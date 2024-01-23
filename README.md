@@ -1,6 +1,6 @@
-An extended sales dashboard based on AdventureWorks 2005 dataset.
+An extended sales dashboard based on AdventureWorks 2005 dataset. Dataset can be found online
 
-Extracted data in .xls file
+Quick presentation added.
 
 Viz can be found here:
 
